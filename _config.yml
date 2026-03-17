@@ -2,13 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
-# Name of your site (displayed in the header)
-name: sunhu park
-
-# Short bio or description (displayed in the header)
-description: Hankuk university of foriegn studies
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
+name: Sunhu Park
+title: Sunhu Park
+description: Hankuk University of Foreign Studies
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
