@@ -2,9 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
-name: Sunhu Park
+name: "Sunhu Park"
 title: Sunhu Park
-description: Hankuk University of Foreign Studies
+description: "Hankuk University of Foreign Studies"
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
